@@ -1,6 +1,9 @@
 {
   "name": "@ling.black/reactive",
   "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": {
     "name": "Yakov V. Ling",
     "url": "https://ling.black",
